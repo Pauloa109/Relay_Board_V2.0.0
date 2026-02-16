@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Base1 Pin=R21-2
+Removed Pin From Net: NetName=Base1 Pin=R31-2
+Removed Pin From Net: NetName=Base1 Pin=R41-2
+Removed Pin From Net: NetName=Base1 Pin=R51-2
+Removed Pin From Net: NetName=Base1 Pin=R61-2
+Removed Pin From Net: NetName=Base1 Pin=R71-2
+Removed Pin From Net: NetName=Base1 Pin=R81-2
+Added Pin To Net: NetName=Base2 Pin=R21-2
+Added Pin To Net: NetName=Base3 Pin=R31-2
+Added Pin To Net: NetName=Base4 Pin=R41-2
+Added Pin To Net: NetName=Base5 Pin=R51-2
+Added Pin To Net: NetName=Base6 Pin=R61-2
+Added Pin To Net: NetName=Base7 Pin=R71-2
+Added Pin To Net: NetName=Base8 Pin=R81-2
+Added Member To Class: ClassName=Sheet2 Member=Component J60 796692-2
+Added Member To Class: ClassName=Sheet2 Member=Component J70 796692-2
+Added Member To Class: ClassName=Sheet2 Member=Component J80 796692-2
+Added Member To Class: ClassName=Sheet2 Member=Component J90 796692-2

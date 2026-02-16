@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J700 Old Footprint=PCB_TAB_Horizontal_6.35 mm New Footprint=PCB_TAB_Vertical_6.35mm
+Added Component: Designator=J800(PCB_TAB_Vertical_6.35mm)
+Added Pin To Net: NetName=VCC Pin=J800-1
+Added Pin To Net: NetName=VCC Pin=J800-2
+Added Member To Class: ClassName=Sheet2 Member=Component J800 PCB_TAB

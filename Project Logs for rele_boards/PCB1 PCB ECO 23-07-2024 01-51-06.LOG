@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND_MCU Pin=C301-1
+Removed Pin From Net: NetName=GND_MCU Pin=C401-1
+Change Component Footprint: Designator=L201 Old Footprint=FP-6_544-5255_01-4-MFG New Footprint=FP-6_544-5255_01-4-MFG
+Added Pin To Net: NetName=GND Pin=C301-1
+Added Pin To Net: NetName=GND Pin=C401-1

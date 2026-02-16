@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=J600-1
+Removed Pin From Net: NetName=VCC Pin=J600-2
+Added Pin To Net: NetName=NetC301_2 Pin=J600-1
+Added Pin To Net: NetName=GND Pin=J600-2
+Add Pin To Net: Unknown Pin: Pin J700-1
+Add Pin To Net: Unknown Pin: Pin J700-2
+Add Class Member: Failed to add class member : Component J700 PCB_TAB

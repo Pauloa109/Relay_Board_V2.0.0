@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetQ10_3 Pin=R23-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R33-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R43-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R53-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R63-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R73-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R83-2
+Removed Pin From Net: NetName=NetQ10_3 Pin=R93-2
+Added Pin To Net: NetName=NetQ20_3 Pin=R23-2
+Added Pin To Net: NetName=NetQ30_3 Pin=R33-2
+Added Pin To Net: NetName=NetQ40_3 Pin=R43-2
+Added Pin To Net: NetName=NetQ50_3 Pin=R53-2
+Added Pin To Net: NetName=NetQ60_3 Pin=R63-2
+Added Pin To Net: NetName=NetQ70_3 Pin=R73-2
+Added Pin To Net: NetName=NetQ80_3 Pin=R83-2
+Added Pin To Net: NetName=NetQ90_3 Pin=R93-2

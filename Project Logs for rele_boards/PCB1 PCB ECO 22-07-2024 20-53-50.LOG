@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=NetC4_2 Pin=D11-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D21-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D31-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D41-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D51-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D61-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D71-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D91-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D91-2
+Change Component Designator: OldDesignator=D91 NewDesignator=D81
+Change Net Name : Old Net Name=NetD91_1 New Net Name=NetD81_1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=G10-A2
+Added Pin To Net: NetName=NetD11_2 Pin=R14-2
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=G20-A2
+Added Pin To Net: NetName=NetD21_2 Pin=R24-2
+Added Net: Name=NetD21_2
+Added Pin To Net: NetName=NetD31_2 Pin=D31-2
+Added Pin To Net: NetName=NetD31_2 Pin=G30-A2
+Added Pin To Net: NetName=NetD31_2 Pin=R34-2
+Added Net: Name=NetD31_2
+Added Pin To Net: NetName=NetD41_2 Pin=D41-2
+Added Pin To Net: NetName=NetD41_2 Pin=G40-A2
+Added Pin To Net: NetName=NetD41_2 Pin=R44-2
+Added Net: Name=NetD41_2
+Added Pin To Net: NetName=NetD51_2 Pin=D51-2
+Added Pin To Net: NetName=NetD51_2 Pin=G50-A2
+Added Pin To Net: NetName=NetD51_2 Pin=R54-2
+Added Net: Name=NetD51_2
+Added Pin To Net: NetName=NetD61_2 Pin=D61-2
+Added Pin To Net: NetName=NetD61_2 Pin=G60-A2
+Added Pin To Net: NetName=NetD61_2 Pin=R64-2
+Added Net: Name=NetD61_2
+Added Pin To Net: NetName=NetD71_2 Pin=D71-2
+Added Pin To Net: NetName=NetD71_2 Pin=G70-A2
+Added Pin To Net: NetName=NetD71_2 Pin=R74-2
+Added Net: Name=NetD71_2
+Added Pin To Net: NetName=NetD81_2 Pin=D81-2
+Added Pin To Net: NetName=NetD81_2 Pin=G80-A2
+Added Pin To Net: NetName=NetD81_2 Pin=R84-2
+Added Net: Name=NetD81_2
+Added Pin To Net: NetName=NetD91_2 Pin=D91-2
+Added Pin To Net: NetName=NetD91_2 Pin=G90-A2
+Added Pin To Net: NetName=NetD91_2 Pin=R94-2
+Added Net: Name=NetD91_2
+Added Member To Class: ClassName=Sheet1 Member=Component D21 1N4001-T
+Added Member To Class: ClassName=Sheet1 Member=Component D91 1N4001-T
+Added Member To Class: ClassName=Sheet1 Member=Component J11 TB004-508-02BE
+Added Member To Class: ClassName=Sheet1 Member=Component Q22 PN2222ATF
+Added Member To Class: ClassName=Sheet1 Member=Component R23 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R24 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R32 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R33 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R34 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R42 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R43 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R44 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R92 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R93 1K

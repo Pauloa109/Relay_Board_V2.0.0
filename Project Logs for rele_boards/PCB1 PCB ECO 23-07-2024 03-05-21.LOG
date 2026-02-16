@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=NetQ10_2 Pin=Q11-3
+Removed Pin From Net: NetName=NetQ20_2 Pin=Q21-3
+Removed Pin From Net: NetName=NetQ30_2 Pin=Q31-3
+Removed Pin From Net: NetName=NetQ40_2 Pin=Q41-3
+Removed Pin From Net: NetName=NetQ50_2 Pin=Q51-3
+Removed Pin From Net: NetName=NetQ60_2 Pin=Q61-3
+Removed Pin From Net: NetName=NetQ70_2 Pin=Q71-3
+Removed Pin From Net: NetName=NetQ80_2 Pin=Q81-3
+Removed Pin From Net: NetName=NetQ90_2 Pin=Q91-3
+Removed Pin From Net: NetName=+15v Pin=R15-2
+Removed Pin From Net: NetName=+15v Pin=R25-2
+Removed Pin From Net: NetName=+15v Pin=R35-2
+Removed Pin From Net: NetName=+15v Pin=R45-2
+Removed Pin From Net: NetName=+15v Pin=R55-2
+Removed Pin From Net: NetName=+15v Pin=R65-2
+Removed Pin From Net: NetName=+15v Pin=R75-2
+Removed Pin From Net: NetName=+15v Pin=R85-2
+Removed Pin From Net: NetName=Base1 Pin=R91-2
+Removed Pin From Net: NetName=+15v Pin=R95-2
+Added Pin To Net: NetName=+15v Pin=Q10-1
+Added Pin To Net: NetName=+15v Pin=Q20-1
+Added Pin To Net: NetName=+15v Pin=Q30-1
+Added Pin To Net: NetName=+15v Pin=Q40-1
+Added Pin To Net: NetName=+15v Pin=Q50-1
+Added Pin To Net: NetName=+15v Pin=Q60-1
+Added Pin To Net: NetName=+15v Pin=Q70-1
+Added Pin To Net: NetName=+15v Pin=Q80-1
+Added Pin To Net: NetName=+15v Pin=Q90-1
+Added Pin To Net: NetName=NetQ10_2 Pin=R15-1
+Added Pin To Net: NetName=NetQ20_2 Pin=R25-1
+Added Pin To Net: NetName=NetQ30_2 Pin=R35-1
+Added Pin To Net: NetName=NetQ40_2 Pin=R45-1
+Added Pin To Net: NetName=NetQ50_2 Pin=R55-1
+Added Pin To Net: NetName=NetQ60_2 Pin=R65-1
+Added Pin To Net: NetName=NetQ70_2 Pin=R75-1
+Added Pin To Net: NetName=NetQ80_2 Pin=R85-1
+Added Pin To Net: NetName=Base9 Pin=R91-2
+Added Pin To Net: NetName=NetQ90_2 Pin=R95-1
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=NetQ11_3 Pin=R15-2
+Added Net: Name=NetQ11_3
+Added Pin To Net: NetName=NetQ21_3 Pin=Q21-3
+Added Pin To Net: NetName=NetQ21_3 Pin=R25-2
+Added Net: Name=NetQ21_3
+Added Pin To Net: NetName=NetQ31_3 Pin=Q31-3
+Added Pin To Net: NetName=NetQ31_3 Pin=R35-2
+Added Net: Name=NetQ31_3
+Added Pin To Net: NetName=NetQ41_3 Pin=Q41-3
+Added Pin To Net: NetName=NetQ41_3 Pin=R45-2
+Added Net: Name=NetQ41_3
+Added Pin To Net: NetName=NetQ51_3 Pin=Q51-3
+Added Pin To Net: NetName=NetQ51_3 Pin=R55-2
+Added Net: Name=NetQ51_3
+Added Pin To Net: NetName=NetQ61_3 Pin=Q61-3
+Added Pin To Net: NetName=NetQ61_3 Pin=R65-2
+Added Net: Name=NetQ61_3
+Added Pin To Net: NetName=NetQ71_3 Pin=Q71-3
+Added Pin To Net: NetName=NetQ71_3 Pin=R75-2
+Added Net: Name=NetQ71_3
+Added Pin To Net: NetName=NetQ81_3 Pin=Q81-3
+Added Pin To Net: NetName=NetQ81_3 Pin=R85-2
+Added Net: Name=NetQ81_3
+Added Pin To Net: NetName=NetQ91_3 Pin=Q91-3
+Added Pin To Net: NetName=NetQ91_3 Pin=R95-2
+Added Net: Name=NetQ91_3

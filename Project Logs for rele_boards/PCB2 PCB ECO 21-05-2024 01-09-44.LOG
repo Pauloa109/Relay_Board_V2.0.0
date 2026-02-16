@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND_MCU Pin=D17-2
+Removed Pin From Net: NetName=GND Pin=D18-2
+Removed Pin From Net: NetName=+15 Pin=R29-1
+Removed Pin From Net: NetName=VCC Pin=R32-1

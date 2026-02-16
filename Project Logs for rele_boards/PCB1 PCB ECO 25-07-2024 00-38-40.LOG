@@ -1,0 +1,10 @@
+Added Component: Designator=J?(Terminal_3P_5.08_2)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1546551-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1546551-3/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1546551&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=1546551-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1546551-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-1546551-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/1546551-3?qs=m%2FhmcwQ75LlRawcWGeRFDA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component J? 1546551-3

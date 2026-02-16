@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=R92 NewDesignator=R82
+Change Component Designator: OldDesignator=R93 NewDesignator=R83
+Added Member To Class: ClassName=Sheet1 Member=Component D91 1N4001-T
+Added Member To Class: ClassName=Sheet1 Member=Component R92 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R93 1K
